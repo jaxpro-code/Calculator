@@ -21,7 +21,7 @@ public class ExampleIf {
             System.out.println("your old");
         }
 
-        else if(age >= 19 && age < 49) {
+        else if(age >= 19 && age <= 49) {
             System.out.println("your not that old");
         }
 
